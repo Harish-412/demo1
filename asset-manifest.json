@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Harish-412/demo1/static/css/main.e5cb2cc4.css",
+    "main.js": "/Harish-412/demo1/static/js/main.78404fdb.js",
+    "index.html": "/Harish-412/demo1/index.html",
+    "main.e5cb2cc4.css.map": "/Harish-412/demo1/static/css/main.e5cb2cc4.css.map",
+    "main.78404fdb.js.map": "/Harish-412/demo1/static/js/main.78404fdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5cb2cc4.css",
+    "static/js/main.78404fdb.js"
+  ]
+}
